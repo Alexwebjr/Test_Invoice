@@ -84,3 +84,7 @@ C:\Apps\Test_Alejandro\Test_Alejandro\obj\Debug\Test_Alejandro.csproj.CoreCompil
 C:\Apps\Test_Alejandro\Test_Alejandro\obj\Debug\Test_Alejandro.csproj.CopyComplete
 C:\Apps\Test_Alejandro\Test_Alejandro\obj\Debug\Test_Alejandro.dll
 C:\Apps\Test_Alejandro\Test_Alejandro\obj\Debug\Test_Alejandro.pdb
+C:\Apps\Test_Alejandro\Test_Alejandro\bin\EntityFramework.dll
+C:\Apps\Test_Alejandro\Test_Alejandro\bin\EntityFramework.SqlServer.dll
+C:\Apps\Test_Alejandro\Test_Alejandro\bin\EntityFramework.xml
+C:\Apps\Test_Alejandro\Test_Alejandro\bin\EntityFramework.SqlServer.xml
